@@ -4,12 +4,6 @@
 
 <h5 align="center">
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-  <a href="https://trendshift.io/repositories/13609" target="blank">
-    <img src="https://trendshift.io/api/badge/repositories/13609" alt="rowboatlabs/rowboat | Trendshift" width="250" height="55"/>
-  </a>
-</p>
-
 <p align="center">
     <a href="https://www.rowboatlabs.com/" target="_blank" rel="noopener">
     <img alt="Website" src="https://img.shields.io/badge/Website-10b981?labelColor=10b981&logo=window&logoColor=white">
@@ -25,11 +19,13 @@
   </a>
 </p>
 
-<h1 align="center">Rowboat: An open-source, local-first, AI cowroker</h1>
+<h2 align="center">Rowboat: An open-source, local-first, AI cowroker</h2>
 
 <p align="center">Builds a knowledge graph from your email and notes, then helps you act on it — all on your machine.</p>
 
 ---
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 You can do things like:
 - `Build me a deck about our next quarter roadmap` → generates a PDF using context from your knowledge graph
