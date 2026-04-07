@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Rowboat" src="assets/banner1.png" width="800" />
+  <img alt="Rowboat" src="assets/banner1.png" width="400" />
 </p>
 
 <h5 align="center">
@@ -25,12 +25,11 @@
   </a>
 </p>
 
-# Rowboat  
-**Open-source AI coworker that turns work into a knowledge graph and acts on it**
-
-</h5>
+# Rowboat: An open-source, local-first, AI cowroker
 
 Rowboat connects to your email and meeting notes, builds a long-lived knowledge graph, and uses that context to help you get work done - privately, on your machine.
+
+---
 
 You can do things like:
 - `Build me a deck about our next quarter roadmap` → generates a PDF using context from your knowledge graph
