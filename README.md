@@ -17,8 +17,8 @@
   <a href="https://discord.gg/wajrgmJQ6b" target="_blank" rel="noopener">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&labelColor=5865F2">
   </a>
-  <a href="https://x.com/intent/user?screen_name=rowboatlabshq" target="_blank" rel="noopener">
-    <img alt="Twitter" src="https://img.shields.io/twitter/follow/rowboatlabshq?style=social">
+  <a href="https://github.com/rowboatlabs/rowboat/blob/main/LICENSE" target="_blank" rel="noopener">
+    <img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg">
   </a>
   <a href="https://www.ycombinator.com" target="_blank" rel="noopener">
     <img alt="Y Combinator" src="https://img.shields.io/badge/Y%20Combinator-S24-orange">
