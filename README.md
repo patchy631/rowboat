@@ -27,7 +27,7 @@
 
 # Rowboat: An open-source, local-first, AI cowroker
 
-Rowboat connects to your email and meeting notes, builds a long-lived knowledge graph, and uses that context to help you get work done - privately, on your machine.
+Builds a knowledge graph from your email and notes, then helps you act on it — all on your machine.
 
 ---
 
