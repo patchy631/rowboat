@@ -25,9 +25,9 @@
   </a>
 </p>
 
-# Rowboat: An open-source, local-first, AI cowroker
+<h1 align="center">Rowboat: An open-source, local-first, AI cowroker</h1>
 
-Builds a knowledge graph from your email and notes, then helps you act on it — all on your machine.
+<p align="center">Builds a knowledge graph from your email and notes, then helps you act on it — all on your machine.</p>
 
 ---
 
