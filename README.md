@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<h2 align="center">Rowboat: An open-source, local-first, AI cowroker</h2>
+<h2 align="center">Rowboat: An open-source, local-first, AI coworker</h2>
 
 <p align="center">Builds a knowledge graph from your email and notes, then helps you act on it — all on your machine.</p>
 
